@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+         
+         float n;
+         cin>>n;
+         int t=(int)n;
+         cout<<t<<endl;
+         float c;
+         c=n-t;
+         cout<<c;
+         
+         
+}
